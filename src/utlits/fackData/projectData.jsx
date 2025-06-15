@@ -30,8 +30,10 @@ export const projectsData = [
     service: "Web Development",
     type: "Educational",
     gallery: [
-      "/images/projects/single-project1.jpg",
-      "/images/projects/single-project2.jpg",
+      "/images/projects/icomar1.png",
+      "/images/projects/icomar2.png",
+      "/images/projects/icomar3.png",
+      "/images/projects/icomar4.png",
     ],
   },
   // {
