@@ -12,7 +12,7 @@ export const projectsData = [
     service: "Web Development",
     type: "Educational",
     gallery: [
-      "/images/projects/Macbook.png",
+      "/images/projects/MacBook.png",
       "/images/projects/OWINJS1.png",
     ],
   },
